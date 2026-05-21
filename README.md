@@ -65,11 +65,3 @@ Repositório com projetos desenvolvidos durante a Formação em Machine Learning
 
 ### Nível 8 - Desafio final
 1. Desafio final
-
-
-
-
-
-
-
-# trilha-ml
